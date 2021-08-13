@@ -85,3 +85,10 @@ button:hover{
 .button i{
     margin-right: 5px;
 }
+
+
+.film-box{
+    display: block;
+    height: 100%;
+    width: 100%;
+}
